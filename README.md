@@ -1,8 +1,8 @@
-## Bem-vindo(a) ao perfil do Lucas Pinheiro 😁
+## Bem-vindo(a) ao perfil do Lucas Pinheiro 🥷🏻
 
  <div>
    <a href="https://github.com/Pinheiro-Lucasz">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pinheiro-Lucasz&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pinheiro-Lucasz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pinheiro-Lucasz&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     ## Estou aprendendo
@@ -15,10 +15,10 @@
  
 <br>
  
-### Contatos
+### Contatos:
  
 <div> 
-  <a href="https://instagram.com/pinheiro_lucasz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:lucaspinheirook@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-pinheiro-148b30215" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pinheiro_lucasz" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
+  <a href = "mailto:lu.kaz@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-pinheiro-148b30215" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
 </div>
