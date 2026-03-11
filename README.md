@@ -14,11 +14,3 @@
 </div>
  
 <br>
- 
-### Contatos:
- 
-<div> 
-  <a href="https://instagram.com/pinheiro_lucasz" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
-  <a href = "mailto:lu.kaz@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-pinheiro-148b30215" target="blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
-</div>
